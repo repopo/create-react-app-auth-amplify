@@ -22,7 +22,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React Custom
+            Learn React Custom2
           </a>
         </header>
       </div>
